@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatoumbackediallo
 - 👀 I’m interested in dev web, cooking and travelling.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on all about web development and security.
+- 🌱 I’m a fullstack developper
+- 💞️ I’m looking to collaborate on exciting and improving project.
 - 📫 How to reach me : by mail or phone
 
 <!---
